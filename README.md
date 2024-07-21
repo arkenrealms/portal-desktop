@@ -8,8 +8,6 @@
 
   <h2><strong>Return Portal</strong> is a <code>free and open source game launcher</code></h2>
 
-<br>
-
 [![Build Status][github-actions-status]][github-actions-url]
 [![Github Tag][github-tag-image]][github-tag-url]
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.arken.gg)
