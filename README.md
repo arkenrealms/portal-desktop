@@ -6,14 +6,10 @@
   <br>
   <br>
 
-  <h1><code>Return Portal</code> free and open source Game Launcher</h1>
+  <h2><strong>Return Portal</strong> is a <code>free and open source game launcher</code></h2>
 </div>
 
 <br>
-
-<p>
-  Return Portal uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="https://webpack.js.org/">Webpack</a> and <a href="https://www.npmjs.com/package/react-refresh">React Fast Refresh</a>.
-</p>
 
 <div align="center">
 
@@ -22,6 +18,12 @@
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.arken.gg)
 
 </div>
+
+## Technology
+
+<p>
+  Return Portal uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="https://webpack.js.org/">Webpack</a> and <a href="https://www.npmjs.com/package/react-refresh">React Fast Refresh</a>.
+</p>
 
 ## Install
 
