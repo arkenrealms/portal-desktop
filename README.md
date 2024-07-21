@@ -1,12 +1,12 @@
 <div align="center">
   <br>
 
-  <img src=".erb/img/logo-color.png" width="100%" />
+  <img src=".erb/img/logo-color.png" width="60%" />
 
   <br>
   <br>
 
-  <h1><code>Return Portal</code> Game Launcher</h1>
+  <h1><code>Return Portal</code> free and open source Game Launcher</h1>
 </div>
 
 <br>
@@ -58,9 +58,9 @@ See our [docs and guides here](https://docs.arken.gg/installation)
 ## Quick Links
 
 - 🌐 [Arken Discord](https://discord.arken.gg)
-- 📺 [Arken Realms](https://preview.arken.gg/)
-- 📖 [Arken Docs](http://docs.arken.gg)
-- 📺 [Return.gg](https://return.gg/)
+- 🌐 [Arken Telegram](https://telegram.arken.gg)
+- 📺 [Arken Realms](https://arken.gg/)
+- 📖 [Return Portal](http://return.gg/portal)
 - 💻 [Return Portal Web](https://github.com/arken-engineering/portal-web)
 - 💻 [Return Portal UI](https://github.com/arken-engineering/portal-ui)
 - 🔗 [Arken Seer](https://github.com/arken-engineering/seer)
