@@ -66,7 +66,7 @@ See our [docs and guides here](https://docs.arken.gg/installation)
 
 ## License
 
-WTFFPL © [Portal Desktop](LICENSE)
+[WTFFPL](LICENSE)
 
 [github-actions-status]: https://github.com/arken-engineering/portal-desktop/workflows/Test/badge.svg
 [github-actions-url]: https://github.com/arken-engineering/portal-desktop/actions
