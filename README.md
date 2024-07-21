@@ -57,12 +57,13 @@ See our [docs and guides here](https://docs.arken.gg/installation)
 
 ## Quick Links
 
-- 🌐 [Discord Community](https://discord.arken.gg)
-- 📺 [Site - Arken](https://preview.arken.gg/)
-- 📖 [Docs](http://docs.arken.gg)
-- 💻 [Portal Web](https://github.com/arken-engineering/portal-web)
-- 💻 [Portal UI](https://github.com/arken-engineering/portal-ui)
-- 🔗 [Seer](https://github.com/arken-engineering/seer)
+- 🌐 [Arken Discord](https://discord.arken.gg)
+- 📺 [Arken Realms](https://preview.arken.gg/)
+- 📖 [Arken Docs](http://docs.arken.gg)
+- 📺 [Return.gg](https://return.gg/)
+- 💻 [Return Portal Web](https://github.com/arken-engineering/portal-web)
+- 💻 [Return Portal UI](https://github.com/arken-engineering/portal-ui)
+- 🔗 [Arken Seer](https://github.com/arken-engineering/seer)
 
 ## License
 
