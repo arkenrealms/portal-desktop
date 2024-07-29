@@ -6,7 +6,7 @@
   <br>
   <br>
 
-  <h2><strong>Return Portal</strong> is a <code>free and open source game launcher</code></h2>
+  <h2><strong>Portal</strong> is a <code>free and open source game launcher</code></h2>
 
 [![Build Status][github-actions-status]][github-actions-url]
 [![Github Tag][github-tag-image]][github-tag-url]
@@ -19,7 +19,7 @@
 ## Introduction
 
 <p>
-  Return Portal uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="https://webpack.js.org/">Webpack</a> and <a href="https://www.npmjs.com/package/react-refresh">React Fast Refresh</a>.
+  Portal uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="https://webpack.js.org/">Webpack</a> and <a href="https://www.npmjs.com/package/react-refresh">React Fast Refresh</a>.
 </p>
 
 ## Install
@@ -58,11 +58,21 @@ See our [docs and guides here](https://docs.arken.gg/installation)
 
 - 🌐 [Arken Discord](https://discord.arken.gg)
 - 🌐 [Arken Telegram](https://telegram.arken.gg)
-- 📺 [Arken Realms](https://arken.gg/)
-- 📖 [Return Portal](http://return.gg/portal)
-- 💻 [Return Portal Web](https://github.com/arken-engineering/portal-web)
-- 💻 [Return Portal UI](https://github.com/arken-engineering/portal-ui)
+- 📺 [Arken Realms](https://arken.gg)
+- 📺 [Portal](https://return.gg/portal)
+- 📖 [Discussions](https://github.com/arken-engineering/discussions)
+- 📖 [Roadmap](https://github.com/orgs/arken-engineering/projects/1)
+- 🔗 [Portal Web](https://github.com/arken-engineering/portal-web)
+- 🔗 [Portal UI](https://github.com/arken-engineering/portal-ui)
 - 🔗 [Arken Seer](https://github.com/arken-engineering/seer)
+- 🔗 [Arken Cerebro](https://github.com/arken-engineering/cerebro)
+- 🔗 [Arken Node](https://github.com/arken-engineering/node)
+- 🔗 [Arken Bot](https://github.com/arken-engineering/bot)
+- 🔗 [Arken Bridge](https://github.com/arken-engineering/bridge)
+- 🔗 [Arken Link](https://github.com/arken-engineering/link)
+- 🎮 [Arken: Evolution Isles](https://github.com/arken-engineering/isles)
+- 🎮 [Arken: Infinite Arena](https://github.com/arken-engineering/arena)
+- 🎮 [Arken: Heart of the Oasis](https://github.com/arken-engineering/oasis)
 
 ## License
 
