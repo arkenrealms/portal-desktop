@@ -27,12 +27,12 @@
 Clone the repo and install dependencies:
 
 ```bash
-git clone --depth 1 --branch main https://github.com/arken-engineering/portal-desktop.git your-project-name
+git clone --depth 1 --branch main https://github.com/arkenrealms/portal.git your-project-name
 cd your-project-name
 npm install
 ```
 
-**Having issues installing? See our [debugging guide](https://github.com/arken-engineering/portal-desktop/issues/1)**
+**Having issues installing? See our [debugging guide](https://github.com/arkenrealms/portal/issues/1)**
 
 ## Starting Development
 
@@ -60,25 +60,25 @@ See our [docs and guides here](https://docs.arken.gg/installation)
 - 🌐 [Arken Telegram](https://telegram.arken.gg)
 - 📺 [Arken Realms](https://arken.gg)
 - 📺 [Portal](https://return.gg/portal)
-- 📖 [Discussions](https://github.com/arken-engineering/discussions)
-- 📖 [Roadmap](https://github.com/orgs/arken-engineering/projects/1)
-- 🔗 [Portal Web](https://github.com/arken-engineering/portal-web)
-- 🔗 [Portal UI](https://github.com/arken-engineering/portal-ui)
-- 🔗 [Arken Seer](https://github.com/arken-engineering/seer)
-- 🔗 [Arken Cerebro](https://github.com/arken-engineering/cerebro)
-- 🔗 [Arken Node](https://github.com/arken-engineering/node)
-- 🔗 [Arken Bot](https://github.com/arken-engineering/bot)
-- 🔗 [Arken Bridge](https://github.com/arken-engineering/bridge)
-- 🔗 [Arken Link](https://github.com/arken-engineering/link)
-- 🎮 [Arken: Evolution Isles](https://github.com/arken-engineering/isles)
-- 🎮 [Arken: Infinite Arena](https://github.com/arken-engineering/arena)
-- 🎮 [Arken: Heart of the Oasis](https://github.com/arken-engineering/oasis)
+- 📖 [Discussions](https://github.com/arkenrealms/discussions)
+- 📖 [Roadmap](https://github.com/orgs/arkenrealms/projects/1)
+- 🔗 [Portal Web](https://github.com/arkenrealms/portal-web)
+- 🔗 [Portal UI](https://github.com/arkenrealms/portal-ui)
+- 🔗 [Arken Seer](https://github.com/arkenrealms/seer)
+- 🔗 [Arken Cerebro](https://github.com/arkenrealms/cerebro)
+- 🔗 [Arken Node](https://github.com/arkenrealms/node)
+- 🔗 [Arken Bot](https://github.com/arkenrealms/bot)
+- 🔗 [Arken Bridge](https://github.com/arkenrealms/bridge)
+- 🔗 [Arken Link](https://github.com/arkenrealms/link)
+- 🎮 [Arken: Evolution Isles](https://github.com/arkenrealms/evolution)
+- 🎮 [Arken: Infinite Arena](https://github.com/arkenrealms/infinite)
+- 🎮 [Arken: Heart of the Oasis](https://github.com/arkenrealms/oasis)
 
 ## License
 
-[WTFFPL](LICENSE)
+[MIT](LICENSE)
 
-[github-actions-status]: https://github.com/arken-engineering/portal-desktop/workflows/Test/badge.svg
-[github-actions-url]: https://github.com/arken-engineering/portal-desktop/actions
-[github-tag-image]: https://img.shields.io/github/tag/arken-engineering/portal-desktop.svg?label=version
-[github-tag-url]: https://github.com/arken-engineering/portal-desktop/releases/latest
+[github-actions-status]: https://github.com/arkenrealms/portal/workflows/Test/badge.svg
+[github-actions-url]: https://github.com/arkenrealms/portal/actions
+[github-tag-image]: https://img.shields.io/github/tag/arkenrealms/portal.svg?label=version
+[github-tag-url]: https://github.com/arkenrealms/portal/releases/latest
